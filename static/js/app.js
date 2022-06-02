@@ -25,7 +25,7 @@ function buildTable(data) {
 
 // Deliverable 1 
 
-1. Create a variable to keep track of all the filters as an object.
+//1. Create a variable to keep track of all the filters as an object.
 var filters = {};
 
 // 3. Use this function to update the filters. 
